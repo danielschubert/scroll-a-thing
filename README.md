@@ -1,4 +1,6 @@
 scroll-a-thing
 ==============
+Tiny js snippet that moves a part of the website (eg the navigation) whilst scrolling
 
-move element of webpage with scrolling movements
+uses jQuery
+
